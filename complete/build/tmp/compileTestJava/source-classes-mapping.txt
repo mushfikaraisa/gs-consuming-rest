@@ -1,0 +1,2 @@
+com/example/consumingrest/ConsumingRestApplicationTest.java
+ com.example.consumingrest.ConsumingRestApplicationTest
